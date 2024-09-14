@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Silvana Fernandes",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Silvana_Fernandes_em_T%C3%B3quio_2020.jpg/789px-Silvana_Fernandes_em_T%C3%B3quio_2020.jpg",
+        "descricao": "Atleta de TaeKwonDo até 57 kg. Medalhista de bronze nos Jogos Olímpicos de Paris 2024."
+    },
+    {
+        "nome": "Fernanda Yara",
+        "foto": "https://cpb.org.br/wp-content/uploads/2023/07/28-1024x726.jpg",
+        "descricao": "Atleta de Atletismo 400m - T47. Medalhista de ouro nos Jogos Olímpicos de Paris 2024."
+    },
+    {
+        "nome": "Gabriel Araújo",
+        "foto": "https://cpb.org.br/wp-content/uploads/2024/08/gabriel-araujo.jpeg",
+        "descricao": "Atleta de Natação S2 - 50m costas. Medalhista de ouro nos Jogos Olímpicos de Paris 2024."
+    }
+]
